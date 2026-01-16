@@ -865,7 +865,7 @@ Static Public Member Functions:
 * `static FRESULT       chdrive (const TCHAR *path)` Change current drive
 * `static FRESULT       getcwd (TCHAR *buff, UINT len)` Retrieve the current directory and drive
 
-## PlatformIO Libary
+## PlatformIO Library
 This library is available at https://registry.platformio.org/libraries/carlk3/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico.
 It is currently running with 
 ```
